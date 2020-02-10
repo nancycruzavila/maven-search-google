@@ -1,6 +1,8 @@
 package SeleniumAcademy.GoogleSearch;
 
-import org.junit.*;
+import org.testng.annotations.Test;
+
+//import org.junit.*;
 import SeleniumAcademy.pages.*;
 
 public class BasicSearch extends BaseTest{

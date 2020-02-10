@@ -1,9 +1,10 @@
 package SeleniumAcademy.GoogleSearch;
 
-import org.junit.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 
 //import SeleniumAcademy.pages.ChromeDriver;
 
